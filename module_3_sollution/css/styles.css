@@ -1,0 +1,39 @@
+#menu-tile1{
+    width: 100%;
+    margin-bottom: 15px;
+    position: relative;
+    overflow: hidden;
+    background-color:#bfbfbf;
+    border: 2px solid black;
+    padding: 10px;
+}
+#menu-tile2{
+    width: 100%;
+    margin-bottom: 15px;
+    position: relative;
+    overflow: hidden;
+    background-color:#bfbfbf;
+    border: 2px solid black;
+    padding: 10px;
+}
+#menu-tile3{
+    width: 100%;
+    margin-bottom: 15px;
+    position: relative;
+    overflow: hidden;
+    background-color:#bfbfbf;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.row{
+    padding:20px;
+}
+
+#header-nav{
+    background-color:#bfbfbf;
+    border: 2px solid black;
+
+    
+}
+
